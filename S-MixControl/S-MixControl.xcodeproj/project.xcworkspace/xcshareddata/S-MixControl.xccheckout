@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AF3E2029-CF70-4900-8D52-21B50DE1CB56</string>
+	<key>IDESourceControlProjectName</key>
+	<string>S-MixControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43ba9712-d6e2-9b48-892a-8b29e2a4fa44</key>
+		<string>https://192.168.1.3:4432/svn/s-mix-ios-client</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/S-MixControl/S-MixControl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43ba9712-d6e2-9b48-892a-8b29e2a4fa44</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43ba9712-d6e2-9b48-892a-8b29e2a4fa44</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43ba9712-d6e2-9b48-892a-8b29e2a4fa44</string>
+			<key>IDESourceControlWCCName</key>
+			<string>s-mix-ios-client</string>
+		</dict>
+	</array>
+</dict>
+</plist>
